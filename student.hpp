@@ -3,7 +3,7 @@
 #include <iostream> // print library
 
 // Exercise 1: implements function 'add', that adds two numbers
-int add(int a, int b);
+int add(int a, int b)
 {
    return a+b;
 }
