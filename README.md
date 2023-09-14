@@ -1,5 +1,3 @@
-# MAIQUEL E SILVA GOMES
-
 # autograding-example-cpp-catch
 
 *Learning Autograding with C/C++ and Catch2 - Prof. Igor Machado Coelho*
@@ -9,7 +7,7 @@ the activity* and hit the link named **update**.
 
 If you want to practice this activity, just follow this link: https://classroom.github.com/a/X_8PAk4h
 
-## Full-Name-Of-Student
+## MAIQUEL-E-SILVA-GOMES
 
 **TODO - Please put your name in this README**
 
